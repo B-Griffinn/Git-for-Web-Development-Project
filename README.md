@@ -32,15 +32,15 @@ In order to do this, you **do not** need to create new forks of these projects. 
 - [X] PM then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
 
 ## Stretch
-- [ X] While the processes learned here will set you up to be successful in most situations, they are just the tip of the iceberg in learning Git. Independantly research the following topics to learn more about Git.
+- [X] While the processes learned here will set you up to be successful in most situations, they are just the tip of the iceberg in learning Git. Independantly research the following topics to learn more about Git.
 
 ME: Merge conflicts happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge.
 
-  - [ X] Research and understand what a `merge conflict` is and how to resolve it.
+  - [X] Research and understand what a `merge conflict` is and how to resolve it.
   
   ME: To resolve a merge conflict, you must manually edit the conflicted file to select the changes that you want to keep in the final merge
   
-  - [X ] Reseach the Git commands `pull`, `rebase`, `merge`. These commands will allow you to bring in changes that other developers push to the master branch.
+  - [X] Reseach the Git commands `pull`, `rebase`, `merge`. These commands will allow you to bring in changes that other developers push to the master branch.
   
   ME:
   Pull: git-request-pull - Generates a summary of pending changes
@@ -48,18 +48,18 @@ ME: Merge conflicts happen when you merge branches that have competing commits, 
   Merge: git-merge - Join two or more development histories together
   
   
-  - [ X] Reseach the Git commands `reset `, `revert`, `clean`. These commands will allow you to go back and ammends previous commits you have made.
+  - [X] Reseach the Git commands `reset `, `revert`, `clean`. These commands will allow you to go back and ammends previous commits you have made.
   
   ME
   Reset: git-reset - Reset current HEAD to the specified state
   Revert: git-revert - Revert some existing commits
   Clean: git-clean - Remove untracked files from the working tree
 
-- [ X] Research and set up a Graphical User Interface (GUI) Git console. 
+- [X] Research and set up a Graphical User Interface (GUI) Git console. 
 
   ME: I downloaded GitKraken because it was the best looking free GUI Git console.
 
-- [X ] Research and setup SSH keys with Github, so that you do not need to input your username/password each time you push. 
+- [X] Research and setup SSH keys with Github, so that you do not need to input your username/password each time you push. 
 
   ME: I do not need to download this because I am on a windows and it only asked me for a user/pw the first push I conducted. 
 
